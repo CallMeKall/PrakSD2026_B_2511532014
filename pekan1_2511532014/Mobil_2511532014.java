@@ -76,7 +76,7 @@ public final class Mobil_2511532014 {
 	}
 	
 	public long getHarga(int index) {
-		if (index>=0 && index<size) return cc[index];
+		if (index>=0 && index<size) return harga[index];
 		return-1;
 	}
 	
